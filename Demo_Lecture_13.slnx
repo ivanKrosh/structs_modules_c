@@ -1,0 +1,17 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Folder Name="/Сценарії/">
+    <File Path="Сценарії/demo01_struct.cmd" />
+    <File Path="Сценарії/demo02_pass.cmd" />
+    <File Path="Сценарії/demo03_modules.cmd" />
+    <File Path="Сценарії/demo04_dll.cmd" />
+  </Folder>
+  <Project Path="Demo1_struct/Demo1_struct.vcxproj" Id="73b6ec44-f393-4a7e-aaf0-d32d5a58d16b" />
+  <Project Path="Demo2_pass/Demo2_pass.vcxproj" Id="d036a4c8-8c81-42c5-8451-fca978b20f83" />
+  <Project Path="Demo3_modules/Demo3_modules.vcxproj" Id="3ae00ac3-285c-43fb-b8cc-817bf1921d1b" />
+  <Project Path="Demo4_journal/Demo4_journal.vcxproj" Id="8b53d800-5d38-40aa-8c54-02018fbdb76a" />
+  <Project Path="Demo4_app/Demo4_app.vcxproj" Id="89cad85a-b8ee-477a-be07-0c0cb120c06f" />
+</Solution>
